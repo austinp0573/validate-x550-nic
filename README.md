@@ -42,7 +42,10 @@ The process is very straightforward:
 - Insert the card.
 - Return the retention arm to it's original position.
 - Close the case.
-TODO: Add photo
+
+The finished product should look something like this:
+
+![g2-hardware](./pics/g2-hardware.jpg)
 
 ## Hardware Identification
 
