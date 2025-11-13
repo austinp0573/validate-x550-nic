@@ -1,0 +1,1 @@
+# Validating an Intel X550 NIC (Dell Part # C4D5P)
