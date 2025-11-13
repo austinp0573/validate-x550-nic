@@ -265,6 +265,13 @@ Desired output:
 * **8–9 Gbps** = acceptable
 * **<5 Gbps** = cabling or negotiation issue
 
----
+![iperf3-output](./pics/iperf3-output.png)
 
 ## Thermal Considerations
+
+These NICs can get quite hot, and the only cooling present in the system is the CPU fan.
+
+I will solve this by:
+- getting a slimline sata -> regular sata adapter
+- sata power -> 12v fan adapter
+- adding a 40 or 60mm fan to help keep the NIC nice and cool
