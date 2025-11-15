@@ -278,3 +278,9 @@ I will solve this by:
 - getting a slimline sata -> regular sata adapter
 - sata power -> 12v fan adapter
 - adding a 40 or 60mm fan to help keep the NIC nice and cool
+
+---
+
+&nbsp;
+
+**466f724a616e6574**
